@@ -1,0 +1,3 @@
+[submodule "stud-support"]
+	path = stud-support
+	url = https://gitlab.fel.cvut.cz/b4m35pap/stud-support.git
