@@ -10,7 +10,7 @@ module test();
     a=0;
     b=0;
     c=0;
-    #160 $finish;
+    #500 $finish;
   end
 
   always #20 a = ~a;
