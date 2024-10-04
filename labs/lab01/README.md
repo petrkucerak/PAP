@@ -8,7 +8,7 @@ Consider the combinatorial circuit shown in figure below. Describe it in Verilog
 
 **Solution**. We will create a new file my_circuit.v with the following content:
 
-```
+```v
 module my_circuit(input a, b, c,
                  output d, e);
 
@@ -24,7 +24,7 @@ Create the TestBench for the simulation of the combinatorial circuit from Exerci
 
 **Solution**. We will create a new file, e.g. my_circuit_tb.v, which defines inputs to the circuit (stimulus list). Then we are able to simulate the circuit and observe its outputs.
 
-```
+```v
 module test();
   reg a, b, c;
   wire x, y;
