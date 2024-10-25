@@ -11,6 +11,12 @@ Describe in Verilog following components. (It is highly recomended to test each 
 - 32-bit register (inputs: datain, clk; output: dataout) – transfers datain to dataout on rising edge of clk, otherwise dataout remains unchanged
 - Resetable 32 bit register
 
+```sh
+cd task01
+make
+gtkwave test_<name_of_task>.vcd
+```
+
 
 ## Exercise 2.
 
