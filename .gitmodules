@@ -1,3 +1,6 @@
 [submodule "stud-support"]
 	path = stud-support
 	url = https://gitlab.fel.cvut.cz/b4m35pap/stud-support.git
+[submodule "semestrals"]
+	path = semestrals
+	url = git@gitlab.fel.cvut.cz:B241_B4M35PAP/kucerp28.git
