@@ -34,3 +34,10 @@ Part I - Hardware description language Seminar project: Design of simple CPU in 
 ## Požadavky
 
 C / C ++ language knowledge, basic knowledge in logic circuits area. completion of bachelor course Architecture of computers is advantage for starting knowledge.
+
+## Snippets
+
+```sh
+git clone --recursive git@github.com:petrkucerak/PAP.git # clone with submodules
+git submodule update --init --recursive # clone submodules
+```
